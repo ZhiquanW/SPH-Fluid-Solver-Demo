@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhiquan/Git-Repository/Fluid-Solver-SPH/SampelCodes/FluidDatabase.h
+utility
+-
+utility
+-
+utility
+-
+vector
+-
+fstream
+-
+algorithm
+-
+Particle.h
+/home/zhiquan/Git-Repository/Fluid-Solver-SPH/SampelCodes/Particle.h
+
+/home/zhiquan/Git-Repository/Fluid-Solver-SPH/SampelCodes/Particle.h
+Vector3.h
+/home/zhiquan/Git-Repository/Fluid-Solver-SPH/SampelCodes/Vector3.h
+
+/home/zhiquan/Git-Repository/Fluid-Solver-SPH/SampelCodes/Vector3.h
+iostream
+-
+cmath
+-
+
+/home/zhiquan/Git-Repository/Fluid-Solver-SPH/SampelCodes/main.cpp
+iostream
+-
+vector
+-
+Vector3.h
+/home/zhiquan/Git-Repository/Fluid-Solver-SPH/SampelCodes/Vector3.h
+Particle.h
+/home/zhiquan/Git-Repository/Fluid-Solver-SPH/SampelCodes/Particle.h
+FluidDatabase.h
+/home/zhiquan/Git-Repository/Fluid-Solver-SPH/SampelCodes/FluidDatabase.h
+
